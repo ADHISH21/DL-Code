@@ -1,4 +1,4 @@
-**WORKIGN OF AN LSTM CELL**
+**WORKING OF AN LSTM CELL**
 
 LSTMs work in a three-step process.
 
